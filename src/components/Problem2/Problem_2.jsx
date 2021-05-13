@@ -14,7 +14,7 @@ function Problem_2() {
     
     useEffect(() => {
         setPeopleSeleted([])
-    }, [])
+    }, [setPeopleSeleted])
 
     
     return (

@@ -1,6 +1,4 @@
-import React , {useContext, useEffect} from 'react'
-import { Link } from "react-router-dom";
-import Loading from '../Loading/Loading';
+import React , {useContext, } from 'react'
 
 import {PeopleContext} from '../../context/CharacterContext';
 
